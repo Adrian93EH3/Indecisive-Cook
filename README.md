@@ -19,7 +19,7 @@ Our team objectives were to design an app with two API's working together using 
 
 
 # Link To Deployed Site
-https://astoiano13.github.io/project-1/
+https://adrian93eh3.github.io/Indecisive-Cook/
 
 # GIF Of Site
 <img src="Assets\Images\indecisive.gif" alt="gif_of_site">
